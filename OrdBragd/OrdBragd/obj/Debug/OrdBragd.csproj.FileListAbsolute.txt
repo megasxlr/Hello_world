@@ -1,0 +1,6 @@
+C:\FDK\OrdBragd\OrdBragd\bin\Debug\OrdBragd.exe.config
+C:\FDK\OrdBragd\OrdBragd\bin\Debug\OrdBragd.exe
+C:\FDK\OrdBragd\OrdBragd\bin\Debug\OrdBragd.pdb
+C:\FDK\OrdBragd\OrdBragd\obj\Debug\OrdBragd.csprojResolveAssemblyReference.cache
+C:\FDK\OrdBragd\OrdBragd\obj\Debug\OrdBragd.exe
+C:\FDK\OrdBragd\OrdBragd\obj\Debug\OrdBragd.pdb
